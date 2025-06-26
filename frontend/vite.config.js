@@ -1,0 +1,1 @@
+// mock vite config
